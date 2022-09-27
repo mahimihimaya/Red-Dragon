@@ -29,7 +29,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+94761597394'] // owner number
+global.vcardowner = ['+94710330800'] // owner number
 global.ownername = "😎Ashan office ❯❯" // owner name
 global.ytname = "https://www.youtube.com/channel/UCxUr80-Cfr40KOyAqYo4Ofw" // yt chanel name
 global.socialm = "GitHub: https://www.youtube.com/channel/UCxUr80-Cfr40KOyAqYo4Ofw" // github or insta name
@@ -48,15 +48,15 @@ global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
 global.owner = ['+94704898700']
-global.ownertag = '+94761597394' //your tag number
+global.ownertag = '+94710330800' //your tag number
 global.botname = 'Ashan office - 𝘉𝘖𝘛' //ur bot name
 global.packname = "Ashan  Sticker" // sticker packname
 global.author = "Ashan office" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
+global.footer = '[ ◉ Ashan office ]' //
 
 //database
-global.premium = ['+94761597394'] //ur premium numbers
+global.premium = ['+94710330800'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
